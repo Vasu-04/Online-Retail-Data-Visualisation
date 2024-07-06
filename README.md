@@ -21,4 +21,4 @@ The dataset used for this analysis contains records from an online retail busine
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Online-Retail-Data-Analysis-Tableau.git
+   git clone [https://github.com/your-username/Online-Retail-Data-Analysis-Tableau.git](https://github.com/Vasu-04/Online-Retail-Data-Visualisation/tree/main)
